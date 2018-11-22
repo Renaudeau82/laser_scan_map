@@ -38,4 +38,4 @@ To save the map, use the command "rosrun map_server map_saver -f map" to obtain 
 The image is a .pgm file that you can turn into a .png file using gimp.
 
 The result is presented in the figure below
-![map](https://github.com/Renaudeau82/laser_scan_map/blob/master/map_wyca.png)
+![map](https://github.com/Renaudeau82/laser_scan_map/blob/master/map_wyca_end.png)
