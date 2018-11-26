@@ -45,7 +45,7 @@ Several solutions are possible in order to obtain a better result.
 
 Better inputs :
 * A laser with a longer range (> 10m)
-* A 360° scaner
+* A 360° scan
 * A better odometry (may be visual + inertial)
 
 Better treatment :
